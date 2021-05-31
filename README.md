@@ -36,23 +36,22 @@ intelligence and talent are simply good starting points.
 
 # third 
 
-it is highly recommended that you have 
+**it is highly recommended that you have 
 a solid understanding of the Terminal (for Mac) 
-or Command Line (for Windows and Linux).
+or Command Line (for Windows and Linux).**
 
-Version Control
+###Version Control
 Version Control is a system that 
 allows you to revisit various versions
  of a file or set of files by recording changes.
 
-Git is a DVCS that stores data in a file system
+- Git is a DVCS that stores data in a file system
  made up of snapshots. Each time you save 
 a changed version of your project — called commit —
- Git creates a snapshot of the file and stores 
+-  Git creates a snapshot of the file and stores 
 a reference to it. If the file has not changed,
- Git only stores a reference to the already-stored 
+-  Git only stores a reference to the already-stored 
 identical version of it.
-
 
 
 1.Loss of Data
