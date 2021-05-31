@@ -80,3 +80,4 @@ The local Git repository has three components:
 Working Directory: The actual files reside here.
 Index: The area used for staging
 Head: Points to the most recent commit
+
