@@ -1,4 +1,4 @@
-# Summarization.md
+# Summarization
 # first  :
 mindset self -perception of self theory that people hold about himself
 
